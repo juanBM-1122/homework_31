@@ -1,0 +1,56 @@
+RegsitroSemanal{
+    display: block;
+    background: url("/img/copos.png ");
+    background-position-y:-50%;
+    background-position-x: 50%;
+    background-repeat: no-repeat;
+    background-color: #000000;
+    
+}
+
+anotaciones{
+    display: block;
+    text-transform: uppercase;
+    color:  #93dcf4;
+    width: 50%;
+    margin: 1% auto;
+    font-size: 1em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+TablaRegistro{
+    display: flex;
+    justify-content:center;
+    flex-wrap: wrap;
+}
+RegistroDiario{
+   display: block;
+   width: 25%;
+   justify-content: space-around;
+    justify-items:baseline;
+   background-color:  #24a4cc ;
+   margin: 1%;
+   padding: 1%;
+   border:  #b4ecf4  solid 5px;
+   color:  #000000;
+   font-family: 'Courier New', Courier, monospace;
+   border-radius: 0px 10px 0px 10px;
+   font-size: 1em;
+}
+UnidadDeMedida{
+    display: block;
+    justify-self: center;
+}
+UnidadDeMedida::before{
+    content: "Unidad de medida: ";
+}
+TemperaturaDelDia{
+    display: block;
+    margin: 1%;
+}
+Zona{
+    display: block;
+}
+DatoTemperatura{
+    display: block;
+}
