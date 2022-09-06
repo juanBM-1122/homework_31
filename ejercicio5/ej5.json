@@ -1,0 +1,69 @@
+{
+  "?xml-stylesheet": "href=\"ej5.css\" type=\"text/css\"",
+  "agenda": {
+    "#text": "\n    AGENDA PERSONAL UES\n    ",
+    "agendablock": {
+      "-blockid": "1",
+      "contacto": [
+        {
+          "-contactid": "1",
+          "nombre": "\n                Luis Enrique\n            ",
+          "telefono": [
+            {
+              "-tipo": "fijo",
+              "#text": "\n                22222222\n            "
+            },
+            {
+              "-tipo": "celular",
+              "#text": "\n                77777777\n            "
+            }
+          ],
+          "direccion": "\n                Av. Romero\n            ",
+          "email": {
+            "-tipo": "intitucional",
+            "#text": "\n                li.enrique@ues.edu.sv\n            "
+          }
+        },
+        {
+          "-contactid": "2",
+          "nombre": "\n                Ernesto Martinez\n            ",
+          "telefono": [
+            {
+              "-tipo": "fijo",
+              "#text": "\n                23333333\n            "
+            },
+            {
+              "-tipo": "celular",
+              "#text": "\n                77555555\n            "
+            }
+          ],
+          "direccion": "\n                Av. Roosvelt\n            ",
+          "email": {
+            "-tipo": "intitucional",
+            "#text": "\n                mar.ernest@ues.edu.sv\n            "
+          }
+        },
+        {
+          "-contactid": "3",
+          "nombre": "\n                Maria Alvarado\n            ",
+          "telefono": [
+            {
+              "-tipo": "fijo",
+              "#text": "\n                23444444\n            "
+            },
+            {
+              "-tipo": "celular",
+              "#text": "\n                75444444\n            "
+            }
+          ],
+          "direccion": "\n                Blv. Los Heroes\n            ",
+          "email": {
+            "-tipo": "intitucional",
+            "#text": "\n                alva.mar@ues.edu.sv\n            "
+          }
+        }
+      ]
+    }
+  },
+  "#standalone": "yes"
+}
