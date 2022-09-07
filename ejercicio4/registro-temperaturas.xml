@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../css/termometro.css" type="text/css"?>
+<?xml-stylesheet href="termometro.css" type="text/css"?>
 <RegsitroSemanal fecha="">
     <anotaciones>
         Fecha en que se guardo el registro: 04/09/2022
