@@ -1,0 +1,56 @@
+agenda {
+    padding-top: 20px;
+    padding-left: 10px;
+    margin: 25px 0;
+    font-size: 1em;
+    font-family: sans-serif;
+    font-weight: bold;
+    min-width: 450px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+agendablock{
+    display: block;
+    padding: 20px;
+    padding-top: 20px;
+}
+
+contacto{
+    display: inline-grid;
+    font-weight: normal;
+}
+
+nombre {
+    padding: 12px 15px; 
+    background-color: #980081;
+    color: #ffffff;
+    text-align: middle;
+    display: block;
+    font-size: 1em;
+    font-family: sans-serif;
+}
+
+telefono{
+    padding: 12px 15px; 
+    border-bottom: 1px solid #dddddd;
+    background-color: #f3f3f3;
+    border-bottom: 1px solid #009879;
+    display: block;
+
+}
+
+direccion{
+    padding: 12px 15px; 
+    border-bottom: 1px solid #dddddd;
+    background-color: #f3f3f3;
+    border-bottom: 1px solid #009879;
+    display: block;
+}
+
+email{
+    padding: 12px 15px; 
+    border-bottom: 1px solid #dddddd;
+    background-color: #f3f3f3;
+    border-bottom: 1px solid #009879;
+    display: block;
+}

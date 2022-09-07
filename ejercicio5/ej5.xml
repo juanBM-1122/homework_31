@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet href="ej5.css" type="text/css"?>
+
+<agenda>
+    AGENDA PERSONAL UES
+    <agendablock blockid = "1">
+        <contacto contactid = "1">
+            <nombre>
+                Luis Enrique
+            </nombre>
+            <telefono tipo = "fijo">
+                22222222
+            </telefono>
+            <telefono tipo = "celular">
+                77777777
+            </telefono>
+            <direccion>
+                Av. Romero
+            </direccion>
+            <email tipo = "intitucional">
+                li.enrique@ues.edu.sv
+            </email>
+        </contacto>
+    
+        <contacto contactid = "2">
+            <nombre>
+                Ernesto Martinez
+            </nombre>
+            <telefono tipo = "fijo">
+                23333333
+            </telefono>
+            <telefono tipo = "celular">
+                77555555
+            </telefono>
+            <direccion>
+                Av. Roosvelt
+            </direccion>
+            <email tipo = "intitucional">
+                mar.ernest@ues.edu.sv
+            </email>
+        </contacto>
+    
+        <contacto contactid = "3">
+            <nombre>
+                Maria Alvarado
+            </nombre>
+            <telefono tipo = "fijo">
+                23444444
+            </telefono>
+            <telefono tipo = "celular">
+                75444444
+            </telefono>
+            <direccion>
+                Blv. Los Heroes
+            </direccion>
+            <email tipo = "intitucional">
+                alva.mar@ues.edu.sv
+            </email>
+        </contacto>
+    </agendablock>
+</agenda>
