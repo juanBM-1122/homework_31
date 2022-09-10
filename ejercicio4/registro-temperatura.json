@@ -1,0 +1,158 @@
+{
+	"RegsitroSemanal":{
+		"@fecha":"",
+		"anotaciones":"\n        Fecha en que se guardo el registro: 04/09/2022\n    ",
+		"TablaRegistro":{"RegistroDiario":[
+				{
+					"@fecha":"03/01/2022",
+					"UnidadDeMedida":{
+						"@idUnidadMedida":"1",
+						"#text":"\n          Farenhit\n        "
+					},
+					"TemperaturaDelDia":{
+						"@minima":"00",
+						"@maxima":"90",
+						"@promedio":"49",
+						"DatoTemperatura":[
+							{
+								"@cualidad":"dia",
+								"#text":"\n                Dia : Lunes\n            "
+							},
+							"\n                Temperatura minima: 0.00\n            ",
+							"\n                Temperatura máxima: 100\n            ",
+							"\n                Temperatura promedio: 78\n            "
+						]
+					},
+					"Zona":{
+						"@idZona":"1",
+						"#text":"\n                Zona: Oriente\n        "
+					}
+				},
+				{
+					"@fecha":"03/01/2022",
+					"UnidadDeMedida":{
+						"@idUnidadMedida":"1",
+						"#text":"\n          Farenhit\n        "
+					},
+					"TemperaturaDelDia":{
+						"@minima":"00",
+						"@maxima":"90",
+						"@promedio":"49",
+						"DatoTemperatura":[
+							{
+								"@cualidad":"dia",
+								"#text":"\n                Dia : Lunes\n            "
+							},
+							"\n                Temperatura minima: 0.00\n            ",
+							"\n                Temperatura máxima: 100\n            ",
+							"\n                Temperatura promedio: 78\n            "
+						]
+					},
+					"Zona":{
+						"@idZona":"1",
+						"#text":"\n                Zona: Oriente\n        "
+					}
+				},
+				{
+					"@fecha":"03/01/2022",
+					"UnidadDeMedida":{
+						"@idUnidadMedida":"1",
+						"#text":"\n          Farenhit\n        "
+					},
+					"TemperaturaDelDia":{
+						"@minima":"00",
+						"@maxima":"90",
+						"@promedio":"49",
+						"DatoTemperatura":[
+							{
+								"@cualidad":"dia",
+								"#text":"\n                Dia : Lunes\n            "
+							},
+							"\n                Temperatura minima: 0.00\n            ",
+							"\n                Temperatura máxima: 100\n            ",
+							"\n                Temperatura promedio: 78\n            "
+						]
+					},
+					"Zona":{
+						"@idZona":"1",
+						"#text":"\n                Zona: Oriente\n        "
+					}
+				},
+				{
+					"@fecha":"03/01/2022",
+					"UnidadDeMedida":{
+						"@idUnidadMedida":"1",
+						"#text":"\n          Farenhit\n        "
+					},
+					"TemperaturaDelDia":{
+						"@minima":"00",
+						"@maxima":"90",
+						"@promedio":"49",
+						"DatoTemperatura":[
+							{
+								"@cualidad":"dia",
+								"#text":"\n                Dia : Lunes\n            "
+							},
+							"\n                Temperatura minima: 0.00\n            ",
+							"\n                Temperatura máxima: 100\n            ",
+							"\n                Temperatura promedio: 78\n            "
+						]
+					},
+					"Zona":{
+						"@idZona":"1",
+						"#text":"\n                Zona: Oriente\n        "
+					}
+				},
+				{
+					"@fecha":"03/01/2022",
+					"UnidadDeMedida":{
+						"@idUnidadMedida":"1",
+						"#text":"\n          Farenhit\n        "
+					},
+					"TemperaturaDelDia":{
+						"@minima":"00",
+						"@maxima":"90",
+						"@promedio":"49",
+						"DatoTemperatura":[
+							{
+								"@cualidad":"dia",
+								"#text":"\n                Dia : Lunes\n            "
+							},
+							"\n                Temperatura minima: 0.00\n            ",
+							"\n                Temperatura máxima: 100\n            ",
+							"\n                Temperatura promedio: 78\n            "
+						]
+					},
+					"Zona":{
+						"@idZona":"1",
+						"#text":"\n                Zona: Oriente\n        "
+					}
+				},
+				{
+					"@fecha":"03/01/2022",
+					"UnidadDeMedida":{
+						"@idUnidadMedida":"1",
+						"#text":"\n          Farenhit\n        "
+					},
+					"TemperaturaDelDia":{
+						"@minima":"00",
+						"@maxima":"90",
+						"@promedio":"49",
+						"DatoTemperatura":[
+							{
+								"@cualidad":"dia",
+								"#text":"\n                Dia : Lunes\n            "
+							},
+							"\n                Temperatura minima: 0.00\n            ",
+							"\n                Temperatura máxima: 100\n            ",
+							"\n                Temperatura promedio: 78\n            "
+						]
+					},
+					"Zona":{
+						"@idZona":"1",
+						"#text":"\n                Zona: Oriente\n        "
+					}
+				}
+			]}
+	}
+}

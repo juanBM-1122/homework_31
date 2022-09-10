@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="termometro.css" type="text/css"?>
+<RegsitroSemanal fecha="">
+    <anotaciones>
+        Fecha en que se guardo el registro: 04/09/2022
+    </anotaciones>
+    <TablaRegistro>
+    <RegistroDiario fecha="03/01/2022">
+        <UnidadDeMedida idUnidadMedida="1">
+          Farenhit
+        </UnidadDeMedida>
+        <TemperaturaDelDia minima="00" maxima="90" promedio="49">
+            <DatoTemperatura cualidad="dia">
+                Dia : Lunes
+            </DatoTemperatura>
+            <DatoTemperatura>
+                Temperatura minima: 0.00
+            </DatoTemperatura>
+            <DatoTemperatura>
+                Temperatura máxima: 100
+            </DatoTemperatura>
+            <DatoTemperatura>
+                Temperatura promedio: 78
+            </DatoTemperatura>
+        </TemperaturaDelDia>
+        <Zona idZona="1">
+                Zona: Oriente
+        </Zona>
+    </RegistroDiario>
+    <RegistroDiario fecha="03/01/2022">
+        <UnidadDeMedida idUnidadMedida="1">
+          Farenhit
+        </UnidadDeMedida>
+        <TemperaturaDelDia minima="00" maxima="90" promedio="49">
+            <DatoTemperatura cualidad="dia">
+                Dia : Lunes
+            </DatoTemperatura>
+            <DatoTemperatura>
+                Temperatura minima: 0.00
+            </DatoTemperatura>
+            <DatoTemperatura>
+                Temperatura máxima: 100
+            </DatoTemperatura>
+            <DatoTemperatura>
+                Temperatura promedio: 78
+            </DatoTemperatura>
+        </TemperaturaDelDia>
+        <Zona idZona="1">
+                Zona: Oriente
+        </Zona>
+    </RegistroDiario>
+    <RegistroDiario fecha="03/01/2022">
+        <UnidadDeMedida idUnidadMedida="1">
+          Farenhit
+        </UnidadDeMedida>
+        <TemperaturaDelDia minima="00" maxima="90" promedio="49">
+            <DatoTemperatura cualidad="dia">
+                Dia : Lunes
+            </DatoTemperatura>
+            <DatoTemperatura>
+                Temperatura minima: 0.00
+            </DatoTemperatura>
+            <DatoTemperatura>
+                Temperatura máxima: 100
+            </DatoTemperatura>
+            <DatoTemperatura>
+                Temperatura promedio: 78
+            </DatoTemperatura>
+        </TemperaturaDelDia>
+        <Zona idZona="1">
+                Zona: Oriente
+        </Zona>
+    </RegistroDiario>
+    <RegistroDiario fecha="03/01/2022">
+        <UnidadDeMedida idUnidadMedida="1">
+          Farenhit
+        </UnidadDeMedida>
+        <TemperaturaDelDia minima="00" maxima="90" promedio="49">
+            <DatoTemperatura cualidad="dia">
+                Dia : Lunes
+            </DatoTemperatura>
+            <DatoTemperatura>
+                Temperatura minima: 0.00
+            </DatoTemperatura>
+            <DatoTemperatura>
+                Temperatura máxima: 100
+            </DatoTemperatura>
+            <DatoTemperatura>
+                Temperatura promedio: 78
+            </DatoTemperatura>
+        </TemperaturaDelDia>
+        <Zona idZona="1">
+                Zona: Oriente
+        </Zona>
+    </RegistroDiario>
+    <RegistroDiario fecha="03/01/2022">
+        <UnidadDeMedida idUnidadMedida="1">
+          Farenhit
+        </UnidadDeMedida>
+        <TemperaturaDelDia minima="00" maxima="90" promedio="49">
+            <DatoTemperatura cualidad="dia">
+                Dia : Lunes
+            </DatoTemperatura>
+            <DatoTemperatura>
+                Temperatura minima: 0.00
+            </DatoTemperatura>
+            <DatoTemperatura>
+                Temperatura máxima: 100
+            </DatoTemperatura>
+            <DatoTemperatura>
+                Temperatura promedio: 78
+            </DatoTemperatura>
+        </TemperaturaDelDia>
+        <Zona idZona="1">
+                Zona: Oriente
+        </Zona>
+    </RegistroDiario>
+    <RegistroDiario fecha="03/01/2022">
+        <UnidadDeMedida idUnidadMedida="1">
+          Farenhit
+        </UnidadDeMedida>
+        <TemperaturaDelDia minima="00" maxima="90" promedio="49">
+            <DatoTemperatura cualidad="dia">
+                Dia : Lunes
+            </DatoTemperatura>
+            <DatoTemperatura>
+                Temperatura minima: 0.00
+            </DatoTemperatura>
+            <DatoTemperatura>
+                Temperatura máxima: 100
+            </DatoTemperatura>
+            <DatoTemperatura>
+                Temperatura promedio: 78
+            </DatoTemperatura>
+        </TemperaturaDelDia>
+        <Zona idZona="1">
+                Zona: Oriente
+        </Zona>
+    </RegistroDiario>
+</TablaRegistro>
+</RegsitroSemanal>
